@@ -1,4 +1,5 @@
-Hello!👋 I’m @michellelven!
+Hello!👋 
+I’m Michelle and I'm a front-end web developer!
 
 A little about me:
 - 🧝🏻‍♀️ Pronouns: She/Her

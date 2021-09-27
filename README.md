@@ -9,3 +9,4 @@ A little about me:
 - 📚 You can take a look at my live projects on my [Portfolio](https://www.michellelven.com/)
 - 💖 I love playing computer games, reading fantasy novels, and singing karaoke.
 - 🎬 I also really love The Lord of the Rings movies/books.
+- 🍎 Currently learning Typescript and working on a group React project with friends!
